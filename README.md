@@ -1,0 +1,1 @@
+# Waste-management-using-django
